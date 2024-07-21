@@ -5,7 +5,7 @@ let arr = [];
 function addTodo() {
     ol.innerHTML = "";
     arr.push(inputTodo.value);
-    inputTodo.value = "";
+    inputTodo.value = ""; 
     console.log(arr);
 
     for (let i = 0; i < arr.length; i++) {
@@ -47,4 +47,4 @@ function editTodo(index) {
         </li>`
 
     }
-}
+}o

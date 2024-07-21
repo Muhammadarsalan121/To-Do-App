@@ -1,0 +1,17 @@
+.bg-dark{
+    background-color: #000000;
+}
+.text-white{
+    color: #ffffff;
+}
+.center{
+    text-align: center;
+    align-content: center;
+}
+#todo{
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+.addButton{
+    padding: 7px;
+}
